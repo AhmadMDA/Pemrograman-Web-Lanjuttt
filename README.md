@@ -27,7 +27,7 @@
   # Praktikum 2.3 – Retreiving Aggregrates
        # where ($user = UserModel::where('level_id',2)->count();
         dd($user);)
-        ![image](https://github.com/AhmadMDA/Pemrograman-Web-Lanjuttt/assets/92176390/32ee4fe2-a167-4811-9435-1b61aee2b136)
+        ![image](https://github.com/AhmadMDA/Pemrograman-Web-Lanjuttt/assets/92176390/cc4abf3a-3c1a-470f-835b-24a0941e760e)
         
   # Praktikum 2.4 – Retreiving or Creating Models
        # firstOrCreate
@@ -45,15 +45,24 @@
 
   # Praktikum 2.6 – Create, Read, Update, Delete (CRUD)
        # Langkah 1 dan 2(All)
-        ![image](https://github.com/AhmadMDA/Pemrograman-Web-Lanjuttt/assets/92176390/852ada46-c1ca-47ac-bcf9-dcb4bfe3105a)
+          ![image](https://github.com/AhmadMDA/Pemrograman-Web-Lanjuttt/assets/92176390/852ada46-c1ca-47ac-bcf9-dcb4bfe3105a)
        # Langkah 4 s/d 6
+          ![image](https://github.com/AhmadMDA/Pemrograman-Web-Lanjuttt/assets/92176390/e1d6d71d-28ed-4930-9c61-f0cf4a196c2e)
        # Langkah 8 dan 9
+       langsung ke direct ke tambah simpan
+          ![image](https://github.com/AhmadMDA/Pemrograman-Web-Lanjuttt/assets/92176390/c1f0de62-0097-4adc-8cd1-c807636ab9be)
        # Langkah 11 sd 13
+          ![image](https://github.com/AhmadMDA/Pemrograman-Web-Lanjuttt/assets/92176390/526a0812-4e48-4aac-b75f-a33f239e2353)
        # Langkah 15 dan 16
+          ![image](https://github.com/AhmadMDA/Pemrograman-Web-Lanjuttt/assets/92176390/ba010af7-52f8-4173-8706-f710941c3f96)
        # Langkah 18 dan 19
-  
+          No 1 samapi 4 di hapus
+          ![image](https://github.com/AhmadMDA/Pemrograman-Web-Lanjuttt/assets/92176390/a9160996-66f9-4a06-9b33-18960fc59abe)
+
   # Praktikum 2.7 – Relationships   
        # One to One
        # Mendefinisikan Kebalikan dari Hubungan One-to-one
        # One to Many
        # One to Many (Inverse) / Belongs To
+       ![image](https://github.com/AhmadMDA/Pemrograman-Web-Lanjuttt/assets/92176390/ecd57567-3d6d-4277-a817-ff9acaf9a88d)
+
